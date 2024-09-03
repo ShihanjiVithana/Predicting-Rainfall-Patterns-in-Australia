@@ -5,10 +5,10 @@ In an era of rapidly changing climates, accurate and reliable weather prediction
 
 Here's why this project stands out:
 
-Comprehensive Analysis: The project covers a wide range of locations across Australia, ensuring that the models are robust and generalizable.
-Data-Driven Decision Making: By predicting rainfall accurately, stakeholders can make informed decisions that have a significant impact on the economy and the environment.
-Cutting-Edge Techniques: The project employs advanced machine learning models, including Neural Networks, Decision Trees, and Time Series Analysis, to achieve the highest prediction accuracy.
-Practical Implementation: The results of this project are not just theoretical. They have practical implications for industries that rely on accurate weather forecasts.
+1. Comprehensive Analysis: The project covers a wide range of locations across Australia, ensuring that the models are robust and generalizable.
+2. Data-Driven Decision Making: By predicting rainfall accurately, stakeholders can make informed decisions that have a significant impact on the economy and the environment.
+3. Cutting-Edge Techniques: The project employs advanced machine learning models, including Neural Networks, Decision Trees, and Time Series Analysis, to achieve the highest prediction accuracy.
+4. Practical Implementation: The results of this project are not just theoretical. They have practical implications for industries that rely on accurate weather forecasts.
 This project is a stepping stone toward creating more refined and precise weather prediction models. Future work may include integrating more complex data sources and refining model accuracy further.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
